@@ -5,5 +5,19 @@
         "subject": "First command",
         "body": "Successfully sent the email!",
         "id": "5d645487-b52b-4c18-b9b8-173493e2e03d"
+    },
+    {
+        "recipient": "rida",
+        "sender": "ee250",
+        "subject": "test",
+        "body": "lab3",
+        "id": "ab1aef1a-c69f-465e-b5ed-0066070de437"
+    },
+    {
+        "recipient": "bhaskar",
+        "sender": "lab",
+        "subject": "lab-test",
+        "body": "send",
+        "id": "aac5b6ec-ed42-4c24-a6b3-db6156f4bab3"
     }
 ]
