@@ -2,6 +2,7 @@
 
 ## Team Members
 Rida Faraz <faraz@usc.edu>
+
 Leyaa George <leyaageo@usc.edu>
 
 ## ***What is REST?***
