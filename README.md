@@ -1,6 +1,10 @@
 # ee-250-lab3
 
-***What is REST?***
+## Team Members
+Rida Faraz <faraz@usc.edu>
+Leyaa George <leyaageo@usc.edu>
+
+## ***What is REST?***
 
 ## Question 1: Why are RESTful APIs scalable? ##
 
